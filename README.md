@@ -8,7 +8,7 @@ A desktop Hangman game built with **Java Swing**, featuring a modular GUI archit
 
 This project is a fully playable Hangman experience with a clean, dark-themed interface. Players guess letters via an on-screen alphabet keyboard, track remaining lives through a visual health bar, and receive win/loss dialogs with the option to replay instantly.
 
-The codebase is organized into focused, single-responsibility classes — demonstrating object-oriented design, GUI composition, and separation of game logic from presentation.
+The codebase is organized into focused, single-responsibility classes and demonstrating object-oriented design, GUI composition, and separation of game logic from presentation.
 
 ---
 
